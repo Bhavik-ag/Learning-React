@@ -1,8 +1,8 @@
 # Getting Started with React - Reference Notes
 
 ## Create React App
-npx create-react-app <project-name>
-npm start
+    1) npx create-react-app <project-name>
+    2) npm start
 
 ## Components are of 2 Types:-
     1) Functional Components - JavaScript functions that return HTML(JSX)
